@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EurekaClient/EurekaClient.iml" filepath="$PROJECT_DIR$/EurekaClient/EurekaClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MusicService/MusicService.iml" filepath="$PROJECT_DIR$/MusicService/MusicService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MusicServiceApplication.iml" filepath="$PROJECT_DIR$/.idea/MusicServiceApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringConfigServer/SpringConfigServer.iml" filepath="$PROJECT_DIR$/SpringConfigServer/SpringConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZuulAPIGateway/ZuulAPIGateway.iml" filepath="$PROJECT_DIR$/ZuulAPIGateway/ZuulAPIGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserService/userservice.iml" filepath="$PROJECT_DIR$/UserService/userservice.iml" />
+    </modules>
+  </component>
+</project>
